@@ -1,0 +1,48 @@
+﻿
+<ul class="navbar-nav my-2 my-lg-0">
+    @{
+        int a;
+        if (Session["Card"] != null)
+        {
+             a = ((E_Ticaret_Entity.Entity.Card)Session["Card"]).Cardlines.Count;
+        }
+        else {
+            a = 0;
+        }
+        }
+    
+
+    @if (Request.IsAuthenticated)
+    {
+        //kullanıcı Adı logout
+        <ul class="navbar-nav my-2 my-lg-0">
+            <li class="nav-item active">
+                <a class="nav-link" href="/Card/Index"><i class="fa  fa-cart-plus ">&nbsp (@a)</i></a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="#">@User.Identity.Name</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/Account/Logout">Logout</a>
+            </li>
+
+        </ul>
+    }
+    else
+    {
+        //login ve register
+        <ul class="navbar-nav my-2 my-lg-0">
+            <li class="nav-item active">
+                <a class="nav-link" href="/Card/Index"><i class="fa fa-shopping-cart">&nbsp (@a)</i></a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="/Account/Login">Login</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/Account/Register">Register</a>
+            </li>
+
+        </ul>
+}
+    
+

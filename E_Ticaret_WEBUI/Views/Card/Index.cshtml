@@ -1,0 +1,103 @@
+﻿@model E_Ticaret_Entity.Entity.Card
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="container pb-5 pt-5">
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Sepet</h2>
+            @if (@Model.Cardlines.Count > 0)
+            {
+                <table class=" table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th class="text-center">Product Image</th>
+                            <th class="text-center">Quentitiy</th>
+                            <th class="text-center">Product Name</th>
+                            <th class="text-center">Price</th>
+                            <th class="text-center">Total</th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.Cardlines)
+                        {
+                            <tr>
+                                <th class="text-center">
+                                    <img style="width:100px;height:100px;" src="~/Upload/@item.Product.Image" alt="@item.Product.Name" />
+                                </th>
+                                <th class="text-center">
+                                    @item.Quentity
+                                </th>
+                                <th class="text-center">
+                                    <a href="/Home/Details/@item.Product.Id">@item.Product.Name</a>
+                                </th>
+                                <th class="text-center">
+                                    @item.Product.Price₺
+                                </th>
+                                <th class="text-center">
+
+                                    @using (Html.BeginForm("Remove", "Card"))
+                                    {
+                                        @Html.Hidden("Id", item.Product.Id)
+                                        <button type="submit" class="btn btn-danger fa fa-trash"></button>
+                                    }
+                                </th>
+
+                            </tr>
+
+
+                        }
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="5">
+                            </td>
+                            <td>
+                                @Model.TotalPrice().ToString("c")
+                            </td>
+                        </tr>
+                    </tfoot>
+
+                </table>
+                <div class="text-center">
+                   
+                    <a href="/Home/List" class="btn btn-outline-primary"> <i class="fa fa-angle-double-left">Keep Shoping </i></a>
+                   
+                 
+                    
+                        <a href="/Card/Checkout" class="btn btn-outline-success"><i class="fa fa-check">Check Out </i></a>
+                   
+                    
+
+
+                </div>
+            }
+            else
+            {
+                <div class="alert alert-warning" role="alert">
+                    <i class="fa fa-exclamation-circle" aria-hidden="true"></i>
+                    Alışveriş Sepetinizde Ürün Bulunmamaktadır.
+                </div>
+            }
+
+        </div>
+    </div>
+</div>
+@*<div class="container">
+
+        <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Dropdown button
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                @foreach (var item in Model.Cardlines)
+                {
+
+                    <a class="dropdown-item" href="#">@item.Product.Name @item.Quentity </a>
+                }
+
+            </div>
+        </div>
+    </div>*@

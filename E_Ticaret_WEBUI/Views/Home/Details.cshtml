@@ -1,0 +1,178 @@
+﻿
+@{
+    ViewBag.Title = "Deneme";
+}
+
+@using E_Ticaret_Entity.Entity
+@model Product
+<link href="https://fonts.googleapis.com/css?family=Hind:400,700" rel="stylesheet">
+
+
+<!-- Slick -->
+
+<link href="~/Content/slick.css" rel="stylesheet" />
+
+<link href="~/Content/slick-theme.css" rel="stylesheet" />
+
+<!-- nouislider -->
+<style>
+ .product-rating>i {
+  color: #FFB656;
+}
+
+.product-rating>i.empty {
+  color: #DADADA;
+}
+</style>
+<link href="~/Content/nouislider.min.css" rel="stylesheet" />
+
+<style>
+    img {
+        position: relative;
+        -webkit-transform: scale(1);
+        -ms-transform: scale(1);
+        -moz-transform: scale(1);
+        transition: all .3s ease-in;
+        -moz-transition: all .3s ease-in;
+        -webkit-transition: all .3s ease-in;
+    }
+
+        img:hover {
+            z-index: 2;
+            -webkit-transform: scale(1.2);
+            -ms-transform: scale(1.2);
+            -moz-transform: scale(1.2);
+            transform: scale(1.2);
+        }
+</style>
+
+<!-- Custom stlylesheet -->
+
+<link href="~/Content/styledetails.css" rel="stylesheet" />
+<div class="container" style="border-style: solid;">
+    <div class="mb-3 mt-3">
+        <div class="section">
+            <!-- container -->
+            <div class="container">
+                <!-- row -->
+                <div class="row">
+                    <!--  Product Details -->
+
+                    <div class="col-md-5 product product-details clearfix mb-5">
+                        <div id="product-main-view">
+                            <div class="product-view">
+                                <img clas="aw-zoom" src="~/Upload/@Model.Image" alt="">
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-md-1"></div>
+
+                    <div class="col-md-6 mb-5">
+                        <div class="product-body">
+
+                            <h2 class="product-name">@Model.Name</h2>
+                            <h3 class="product-price">$@Model.Price</h3>
+                            <div>
+                                <div class="product-rating">
+                                    @for (int i = 0; i < 5; i++)
+                                    {
+                                        if (Model.Rating >= i)
+                                        {
+                                            <i class="fa fa-star"></i>
+                                        }
+                                        else if (Model.Rating + 1 > i)
+                                        {
+                                            <i class="fa fa-star-half"></i>
+                                        }
+                                        else
+                                        {
+                                            <i class="fa fa-star-o empty"></i>
+                                        }
+
+                                    }
+
+                                </div>
+                                <a href="#">3 Review(s) / Add Review</a>
+                            </div>
+                            <p>
+                                <strong>Availability:  </strong>
+                                @if (Model.Stock > 0)
+                                {
+                                <p> Stock :@Model.Stock</p>
+                            }
+                            else
+                            {
+                                <p> Out Of Stock</p>
+                            }
+                                <p><strong>Brand:</strong>Kategori Adı</p>
+                                <p>
+                                    @Model.Description
+                                </p>
+
+                                @using (Html.BeginForm("AddToCard", "Card"))
+                                {
+                                    @Html.HiddenFor(i=>i.Id)
+                                    <div class="product-btns">
+                                        <div class="qty-input">
+                                            <span class="text-uppercase">QTY: </span><br />
+                                            <input class="input" name="quentity" id="quentity" style="width:80px; height:40px;" value="1" type="number">
+                                        </div>
+                                        <button type="submit" class="primary-btn add-to-cart"><i class="fa fa-shopping-cart"></i> Add to Cart</button>
+                                        <div class="pull-right">
+                                            <button class="main-btn icon-btn"><i class="fa fa-heart"></i></button>
+                                            <button class="main-btn icon-btn"><i class="fa fa-exchange"></i></button>
+                                            <button class="main-btn icon-btn"><i class="fa fa-share-alt"></i></button>
+                                        </div>
+                                    </div>
+                                }
+                            </div>
+                        </div>
+
+                        <div class="row mt-3">
+                            <div class="col-md-12">
+                                <div class="bd-example bd-example-tabs">
+
+
+                                    <ul class="nav nav-tabs mb-3" id="pills-tab" role="tablist">
+                                        <li class="nav-item">
+                                            <a class="nav-link active" id="pills-description-tab" data-toggle="pill" href="#pills-description" role="tab" aria-controls="pills-description" aria-selected="true">Description</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link " id="pills-payment-tab" data-toggle="pill" href="#pills-payment" role="tab" aria-controls="pills-payment" aria-selected="false">Payment Methods</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" id="pills-reviews-tab" data-toggle="pill" href="#pills-reviews" role="tab" aria-controls="pills-reviews" aria-selected="false">Reviews</a>
+                                        </li>
+                                    </ul>
+
+                                    <div class="tab-content" id="pills-tabContent">
+                                        <div class="tab-pane fade show active" id="pills-description" role="tabpanel" aria-labelledby="pills-description-tab">
+                                            <p>@Model.Description</p>
+                                        </div>
+                                        <div class="tab-pane fade" id="pills-payment" role="tabpanel" aria-labelledby="pills-payment-tab">
+                                            <p>Ödeme</p>
+                                        </div>
+                                        <div class="tab-pane fade" id="pills-reviews" role="tabpanel" aria-labelledby="pills-reviews-tab">Lorem ed. Sed elementum justo a lobortis porttitor.</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <!-- /Product Details -->
+                </div>
+                <!-- /row -->
+            </div>
+            <!-- /container -->
+        </div>
+
+
+
+    </div>
+
+
+
+
+
+

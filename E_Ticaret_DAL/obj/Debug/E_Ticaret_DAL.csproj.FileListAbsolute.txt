@@ -1,0 +1,44 @@
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_DAL\bin\Debug\E_Ticaret_DAL.dll.config
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_DAL\bin\Debug\E_Ticaret_DAL.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_DAL\bin\Debug\E_Ticaret_DAL.pdb
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_DAL\bin\Debug\EntityFramework.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_DAL\bin\Debug\FakeData.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_DAL\bin\Debug\EntityFramework.xml
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_DAL\bin\Debug\FakeData.pdb
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_DAL\obj\Debug\E_Ticaret_DAL.csprojAssemblyReference.cache
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_DAL\obj\Debug\E_Ticaret_DAL.csproj.CopyComplete
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_DAL\obj\Debug\E_Ticaret_DAL.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_DAL\obj\Debug\E_Ticaret_DAL.pdb
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_DAL\bin\Debug\E_Ticaret_DAL.dll.config
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_DAL\bin\Debug\E_Ticaret_DAL.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_DAL\bin\Debug\E_Ticaret_DAL.pdb
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_DAL\bin\Debug\EntityFramework.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_DAL\bin\Debug\FakeData.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_DAL\bin\Debug\EntityFramework.xml
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_DAL\bin\Debug\FakeData.pdb
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_DAL\obj\Debug\E_Ticaret_DAL.csprojAssemblyReference.cache
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_DAL\obj\Debug\E_Ticaret_DAL.csproj.CopyComplete
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_DAL\obj\Debug\E_Ticaret_DAL.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_DAL\obj\Debug\E_Ticaret_DAL.pdb
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DAL\bin\Debug\E_Ticaret_DAL.dll.config
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DAL\bin\Debug\E_Ticaret_DAL.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DAL\bin\Debug\E_Ticaret_DAL.pdb
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DAL\bin\Debug\EntityFramework.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DAL\bin\Debug\FakeData.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DAL\bin\Debug\EntityFramework.xml
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DAL\bin\Debug\FakeData.pdb
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DAL\obj\Debug\E_Ticaret_DAL.csproj.CopyComplete
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DAL\obj\Debug\E_Ticaret_DAL.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DAL\obj\Debug\E_Ticaret_DAL.pdb
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DAL\obj\Debug\E_Ticaret_DAL.csprojAssemblyReference.cache
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DAL\bin\Debug\E_Ticaret_Entity.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DAL\bin\Debug\E_Ticaret_Entity.pdb
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DAL\bin\Debug\E_Ticaret_Entity.dll.config
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DAL\bin\Debug\E_Ticaret_DLL.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DAL\bin\Debug\E_Ticaret_DLL.pdb

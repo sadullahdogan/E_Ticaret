@@ -1,0 +1,55 @@
+﻿@using E_Ticaret_WEBUI.Models
+@model IEnumerable<ProductModel>
+<link href="~/css/style.css" rel="stylesheet" />
+<div class="row">
+    @foreach (var urun in Model)
+    {
+        <div class="col-md-4 col-sm-6 col-xs-6">
+            <div class="product product-single">
+                <div id="deneme" class="product-thumb">
+                    @*<div class="product-label">
+                            <span>New</span>
+                            <span class="sale">-20%</span>
+                        </div>*@
+
+                    <a href="/Home/Details/@urun.Id" class="main-btn quick-view">Quick view</a>
+                    <img id="imageD" src="~/Upload/@urun.Image" alt="">
+                </div>
+                <div class="product-body">
+                    <h3 class="product-price">$@urun.Price</h3>
+                    <div class="product-rating">
+                        @for (int i = 0; i < 5; i++)
+                        {
+                            if (urun.Rating >= i)
+                            {
+                                <i class="fa fa-star"></i>
+                            }
+                            else if (urun.Rating + 1 > i)
+                            {
+                                <i class="fa fa-star-half"></i>
+                            }
+                            else
+                            {
+                                <i class="fa fa-star-o empty"></i>
+                            }
+
+                        }
+                    </div>
+                    <h2 class="product-name"><a href="/Home/Details/@urun.Id">@urun.Name</a></h2>
+                    <div class="product-btns">
+                        <button class="main-btn icon-btn"><i class="fa fa-heart"></i></button>
+                        <button class="main-btn icon-btn btn-sm"><i class="fa fa-exchange"></i></button>
+                        @using (Html.BeginForm("AddToCard", "Card"))
+                        {@Html.Hidden("Id", urun.Id)
+
+
+                        <button type="submit" class="primary-btn add-to-cart"><i class="fa fa-shopping-cart"></i> Add to Cart</button>
+
+                    }
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+

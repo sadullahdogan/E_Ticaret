@@ -1,0 +1,5 @@
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DLL\bin\Debug\E_Ticaret_DLL.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DLL\bin\Debug\E_Ticaret_DLL.pdb
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DLL\obj\Debug\E_Ticaret_DLL.csprojAssemblyReference.cache
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DLL\obj\Debug\E_Ticaret_DLL.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DLL\obj\Debug\E_Ticaret_DLL.pdb

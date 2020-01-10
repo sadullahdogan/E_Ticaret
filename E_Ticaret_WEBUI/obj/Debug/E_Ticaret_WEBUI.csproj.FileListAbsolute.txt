@@ -1,0 +1,258 @@
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\E_Ticaret_WEBUI.dll.config
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\E_Ticaret_WEBUI.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\E_Ticaret_WEBUI.pdb
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\csc.exe
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\csc.exe.config
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\csc.rsp
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\csi.exe
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\csi.exe.config
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\csi.rsp
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.AppContext.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Console.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Net.Http.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\vbc.exe
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\vbc.exe.config
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\vbc.rsp
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Helpers.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Mvc.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Razor.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Webpages.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Razor.xml
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Webpages.xml
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Helpers.xml
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Mvc.xml
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\obj\Debug\E_Ticaret_WEBUI.csprojAssemblyReference.cache
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\obj\Debug\E_Ticaret_WEBUI.csproj.CopyComplete
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\obj\Debug\E_Ticaret_WEBUI.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\obj\Debug\E_Ticaret_WEBUI.pdb
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\EntityFramework.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\EntityFramework.SqlServer.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\E_Ticaret_DAL.dll
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\E_Ticaret_DAL.pdb
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\E_Ticaret_DAL.dll.config
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\EntityFramework.xml
+C:\Users\ALTAN EMRE\source\repos\E_Ticaret\E_Ticaret_WEBUI\bin\EntityFramework.SqlServer.xml
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\E_Ticaret_WEBUI.dll.config
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\E_Ticaret_WEBUI.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\E_Ticaret_WEBUI.pdb
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\csc.exe
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\csc.exe.config
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\csc.rsp
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\csi.exe
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\csi.exe.config
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\csi.rsp
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.AppContext.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Console.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Net.Http.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\vbc.exe
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\vbc.exe.config
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\vbc.rsp
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\EntityFramework.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\EntityFramework.SqlServer.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\E_Ticaret_DAL.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Helpers.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Mvc.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Razor.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Webpages.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\E_Ticaret_DAL.pdb
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\E_Ticaret_DAL.dll.config
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\EntityFramework.xml
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\EntityFramework.SqlServer.xml
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Razor.xml
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Webpages.xml
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Helpers.xml
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Mvc.xml
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\obj\Debug\E_Ticaret_WEBUI.csprojAssemblyReference.cache
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\obj\Debug\E_Ticaret_WEBUI.csproj.CopyComplete
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\obj\Debug\E_Ticaret_WEBUI.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_WEBUI\obj\Debug\E_Ticaret_WEBUI.pdb
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\obj\Debug\E_Ticaret_WEBUI.csprojAssemblyReference.cache
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\E_Ticaret_WEBUI.dll.config
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\E_Ticaret_WEBUI.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\E_Ticaret_WEBUI.pdb
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\csc.exe
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\csc.exe.config
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\csc.rsp
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\csi.exe
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\csi.exe.config
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\csi.rsp
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.AppContext.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Console.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Net.Http.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\vbc.exe
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\vbc.exe.config
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\vbc.rsp
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\EntityFramework.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\EntityFramework.SqlServer.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\E_Ticaret_DAL.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\E_Ticaret_DLL.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\E_Ticaret_Entity.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\Microsoft.Owin.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\Microsoft.Owin.Security.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\Newtonsoft.Json.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\Owin.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Helpers.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Mvc.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Razor.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Webpages.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\E_Ticaret_DAL.pdb
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\E_Ticaret_DAL.dll.config
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\E_Ticaret_DLL.pdb
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\E_Ticaret_Entity.pdb
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\E_Ticaret_Entity.dll.config
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\EntityFramework.xml
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\EntityFramework.SqlServer.xml
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\Microsoft.Owin.xml
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\Microsoft.Owin.Security.xml
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\Newtonsoft.Json.xml
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Razor.xml
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Webpages.xml
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Helpers.xml
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\System.Web.Mvc.xml
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\obj\Debug\E_Ticaret_WEBUI.csproj.CopyComplete
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\obj\Debug\E_Ticaret_WEBUI.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_WEBUI\obj\Debug\E_Ticaret_WEBUI.pdb

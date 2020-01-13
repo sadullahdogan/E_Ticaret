@@ -9,16 +9,18 @@ using E_Ticaret_Entity.Entity;
 
 namespace E_Ticaret_DAL.DB
 {
-    public class DataContext:DbContext
+    public class DataContext : DbContext
     {
-        public DataContext():base("MSSQL")
+        public DataContext() : base("MSSQL")
         {
             Database.SetInitializer(new DataInitilazier());
         }
-      
+
         public DbSet<Product> Products { get; set; }
         public DbSet<Category> Categories { get; set; }
+        public DbSet<Order> Orders { get; set; }
+        public DbSet<OrderLine> OrderLines { get; set; }
 
-        public DbSet<ShippingDetails> ShippingDetails { get; set; }
+
     }
 }

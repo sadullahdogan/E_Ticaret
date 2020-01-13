@@ -3,3 +3,7 @@ C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DLL\bin\Debug\E_Ticaret_DLL
 C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DLL\obj\Debug\E_Ticaret_DLL.csprojAssemblyReference.cache
 C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DLL\obj\Debug\E_Ticaret_DLL.dll
 C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DLL\obj\Debug\E_Ticaret_DLL.pdb
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DLL\bin\Debug\E_Ticaret_Entity.dll
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DLL\bin\Debug\E_Ticaret_Entity.pdb
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DLL\bin\Debug\E_Ticaret_Entity.dll.config
+C:\Users\sadul\Desktop\Emre Hoca\E_Ticaret\E_Ticaret_DLL\obj\Debug\E_Ticaret_DLL.csproj.CopyComplete

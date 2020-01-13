@@ -1,0 +1,72 @@
+﻿@model E_Ticaret_DLL.Models.OrderDetailsModel
+
+<div class="container mb-5 mt-5">
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Sipariş Detay</h2>
+            <dl class="row">
+                <dt class="col-sm-3">Order Id</dt>
+                <dd class="col-sm-9">@Model.OrderId</dd>
+                
+                <dt class="col-sm-3">Order Number</dt>
+                <dd class="col-sm-9">
+                    <p>@Model.OrderNumber</p>
+                </dd>
+                <dt class="col-sm-3">Total</dt>
+                <dd class="col-sm-9">
+                    <i class="fa fa-try" aria-hidden="true"></i>
+                    @Model.Total
+                </dd>
+                <dt class="col-sm-3">Order Date</dt>
+                <dd class="col-sm-9">
+                    <p>@Model.OrderDate</p>
+                </dd>
+                <dt class="col-sm-3">Adres</dt>
+                <dd class="col-sm-9">
+                    <p>@Model.AdresBilgi</p><br />
+                    <p>@Model.Adres</p><br />
+                    <p>@Model.Sehir- Model.Semt-Model.Mahalle</p><hr />
+                    <p>@Model.PostaKodu</p>
+                </dd>
+                <dt class="col-sm-3">Products</dt>
+                <dd class="col-sm-9">
+                    <table class="table table-striped table-bordered">
+                        <thead>
+                            <tr>
+                                <th>Image</th>
+                                <th style="width:45%;">Product Name</th>
+                                <th>Quentity</th>
+                                <th>Price</th>
+                                <th style="width:10%;">Product Name</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.OrderLines)
+                            {
+                            <tr>
+                                <td>
+                                    <img style="width:100px;height:100px;" src="~/Upload/@item.Image" alt="Product Image" />
+                                </td>
+                                <td>@item.ProductName</td>
+                                <td>@item.Quentity</td>
+                                <td>
+                                    <i class="fa fa-try" aria-hidden="true"></i>
+                                    @item.Price
+                                </td>
+                                <td>
+                                    <a href="/Home/Details/@item.ProductId" class="btn btn-outline-primary" target="_blank">Ürün Detayı</a>
+                                </td>
+
+
+                            </tr>
+                            }
+                        </tbody>
+                    </table>
+                </dd>
+
+              
+            </dl>
+        </div>
+    </div>
+</div>
+

@@ -39,6 +39,7 @@
                     <div class="product-btns">
                         <button class="main-btn icon-btn"><i class="fa fa-heart"></i></button>
                         <button class="main-btn icon-btn btn-sm"><i class="fa fa-exchange"></i></button>
+                    </div>
                         @using (Html.BeginForm("AddToCard", "Card"))
                         {@Html.Hidden("Id", urun.Id)
 
@@ -46,7 +47,7 @@
                         <button type="submit" class="primary-btn add-to-cart"><i class="fa fa-shopping-cart"></i> Add to Cart</button>
 
                     }
-                    </div>
+                    
                 </div>
             </div>
         </div>

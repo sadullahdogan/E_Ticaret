@@ -53,9 +53,11 @@ namespace E_Ticaret_WEBUI.Controllers
 
             return card;
         }
+        [Authorize(Roles ="user")]
         public ActionResult Checkout() {
             return View(new ShippingDetails());
         }
+        [Authorize(Roles = "user")]
         [HttpPost]
         public ActionResult Checkout(ShippingDetails shipping) {
             var cart = GetCard();
@@ -65,6 +67,7 @@ namespace E_Ticaret_WEBUI.Controllers
             if (ModelState.IsValid)
             {
                 shipping.Username = User.Identity.Name;
+                SaveOrder(cart, shipping);
                 cart.Clear();
                 return RedirectToAction("Completed");
             }
@@ -75,6 +78,31 @@ namespace E_Ticaret_WEBUI.Controllers
         }
         public ActionResult Completed() {
             return View();
+        }
+        private void SaveOrder( Card card,ShippingDetails shipping) {
+            var order = new Order();
+            order.OrderNumber = "A" + new Random().Next(11111, 99999).ToString();
+            order.Total = card.TotalPrice();
+            order.OrderDate = DateTime.Now;
+            order.OrderState = EnumOrderState.Waiting;
+            order.Username = User.Identity.Name;
+            order.Adres = shipping.Adres;
+            order.AdresBilgi = shipping.AdresBilgi;
+            order.Sehir = shipping.Sehir;
+            order.Semt = shipping.Semt;
+            order.Mahalle = shipping.Mahalle;
+            order.PostaKodu = shipping.PostaKodu;
+            order.OrderLines = new List<OrderLine>();
+            foreach (var item in card.Cardlines)
+            {
+                var orderLine = new OrderLine();
+                orderLine.Quentity = item.Quentity;
+                orderLine.Price = item.Quentity * item.Product.Price;
+                orderLine.ProductId = item.Product.Id;
+                order.OrderLines.Add(orderLine);
+            }
+            db.Orders.Add(order);
+            db.SaveChanges();
         }
         
     }

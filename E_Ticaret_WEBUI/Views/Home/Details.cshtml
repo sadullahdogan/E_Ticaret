@@ -109,21 +109,21 @@
                                 <p>
                                     @Model.Description
                                 </p>
-
+                                <div class="pull-right">
+                                    <button class="main-btn icon-btn"><i class="fa fa-heart"></i></button>
+                                    <button class="main-btn icon-btn"><i class="fa fa-exchange"></i></button>
+                                    <button class="main-btn icon-btn"><i class="fa fa-share-alt"></i></button>
+                                </div>
                                 @using (Html.BeginForm("AddToCard", "Card"))
                                 {
-                                    @Html.HiddenFor(i=>i.Id)
+                                    @Html.HiddenFor(i => i.Id)
                                     <div class="product-btns">
                                         <div class="qty-input">
                                             <span class="text-uppercase">QTY: </span><br />
                                             <input class="input" name="quentity" id="quentity" style="width:80px; height:40px;" value="1" type="number">
                                         </div>
                                         <button type="submit" class="primary-btn add-to-cart"><i class="fa fa-shopping-cart"></i> Add to Cart</button>
-                                        <div class="pull-right">
-                                            <button class="main-btn icon-btn"><i class="fa fa-heart"></i></button>
-                                            <button class="main-btn icon-btn"><i class="fa fa-exchange"></i></button>
-                                            <button class="main-btn icon-btn"><i class="fa fa-share-alt"></i></button>
-                                        </div>
+
                                     </div>
                                 }
                             </div>

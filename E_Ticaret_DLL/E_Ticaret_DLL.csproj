@@ -43,9 +43,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Models\LoginModel.cs" />
+    <Compile Include="Models\OrderDetailsModel.cs" />
     <Compile Include="Models\RegisterModel.cs" />
     <Compile Include="Models\ShippingDetails.cs" />
+    <Compile Include="Models\UserOrderModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\E_Ticaret_Entity\E_Ticaret_Entity.csproj">
+      <Project>{E738CD4D-1A0A-460C-A6C4-D69FEA2630FA}</Project>
+      <Name>E_Ticaret_Entity</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

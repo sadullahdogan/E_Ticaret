@@ -15,18 +15,25 @@
     @if (Request.IsAuthenticated)
     {
         //kullanıcı Adı logout
-        <ul class="navbar-nav my-2 my-lg-0">
-            <li class="nav-item active">
-                <a class="nav-link" href="/Card/Index"><i class="fa  fa-cart-plus ">&nbsp (@a)</i></a>
-            </li>
-            <li class="nav-item active">
-                <a class="nav-link" href="/Account/Index">@User.Identity.Name</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/Account/Logout">Logout</a>
-            </li>
+    <ul class="navbar-nav my-2 my-lg-0">
 
-        </ul>
+        <li class="nav-item active">
+            <a class="nav-link" href="/Card/Index"><i class="fa  fa-cart-plus ">&nbsp (@a)</i></a>
+        </li>
+        <li class="nav-item active">
+            <a class="nav-link" href="/Account/Index">@User.Identity.Name</a>
+        </li>
+        @if (User.IsInRole("admin"))
+        {
+            <li class="nav-item active">
+                <a class="nav-link" href="/Category/Index">Admin Page</a>
+            </li>
+        }
+        <li class="nav-item">
+            <a class="nav-link" href="/Account/Logout">Logout</a>
+        </li>
+
+    </ul>
     }
     else
     {

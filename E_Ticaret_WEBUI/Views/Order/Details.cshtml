@@ -1,0 +1,108 @@
+﻿@model E_Ticaret_Entity.Entity.Order
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutPageAdmin.cshtml";
+}
+
+
+
+    <div class="container mb-5 mt-5">
+        <h4>Order</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.OrderNumber)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.OrderNumber)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Total)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Total)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.OrderDate)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.OrderDate)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.OrderState)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.OrderState)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Username)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Username)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.AdresBilgi)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.AdresBilgi)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Adres)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Adres)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Sehir)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Sehir)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Semt)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Semt)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Mahalle)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Mahalle)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.PostaKodu)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.PostaKodu)
+            </dd>
+
+        </dl>
+        <p>
+            @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+            @Html.ActionLink("Back to List", "Index")
+        </p>
+    </div>
+

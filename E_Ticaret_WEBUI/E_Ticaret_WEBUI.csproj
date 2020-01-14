@@ -140,6 +140,7 @@
     <Content Include="Content\slick.css" />
     <Content Include="Content\style.css" />
     <Content Include="Content\styledetails.css" />
+    <Content Include="css\shop-homepage.css" />
     <Content Include="css\style.css" />
     <Content Include="css\styleCategori.css" />
     <Content Include="fonts\fontawesome-webfont.svg" />
@@ -333,6 +334,7 @@
     <Content Include="Views\Order\Details.cshtml" />
     <Content Include="Views\Order\Edit.cshtml" />
     <Content Include="Views\Order\Index.cshtml" />
+    <Content Include="Views\Card\CardMenu.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

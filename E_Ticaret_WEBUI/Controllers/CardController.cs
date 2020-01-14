@@ -17,7 +17,7 @@ namespace E_Ticaret_WEBUI.Controllers
         {
             return View(GetCard());
         }
-        public ActionResult AddToCard(int Id, int? quentity)
+        public ActionResult AddToCard(int Id, int? quentity,string returnUrl)
         {
             var product = db.Products.FirstOrDefault(x => x.Id == Id);
 
@@ -28,28 +28,32 @@ namespace E_Ticaret_WEBUI.Controllers
                 else
                     GetCard().AddProduct(product, Int32.Parse(quentity.ToString()));
             }
+            if (returnUrl != null) {
+                return Redirect(returnUrl);
+            }
             return RedirectToAction("Index");
 
 
         }
-        public ActionResult Remove(int Id)
+        public ActionResult Remove(int Id,string returnUrl)
         {
             var product = db.Products.FirstOrDefault(x => x.Id == Id);
             if (product != null)
             {
                 GetCard().DeleteProduct(product);
             }
+            if (returnUrl != null) {
+                return Redirect(returnUrl);
+            }
             return RedirectToAction("Index");
         }
         public Card GetCard()
         {
-            var card = (Card)Session["Card"];
-            if (card == null)
-            {
-                card = new Card();
-                Session["Card"] = card;
-
+            if (Session["Card"] == null) {
+                Session["Card"]= new Card();
             }
+            var card = (Card)Session["Card"];
+           
 
             return card;
         }
@@ -78,6 +82,9 @@ namespace E_Ticaret_WEBUI.Controllers
         }
         public ActionResult Completed() {
             return View();
+        }
+        public PartialViewResult CardMenu() {
+            return PartialView(GetCard());
         }
         private void SaveOrder( Card card,ShippingDetails shipping) {
             var order = new Order();

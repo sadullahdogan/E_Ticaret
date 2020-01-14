@@ -1,13 +1,18 @@
 ﻿@model E_Ticaret_Entity.Entity.Card
 
-
-<div class="container pb-5 pt-5">
+<style>
+    .menu-card {
+    max-height:300px;
+    overflow-y:auto;
+    }
+</style>
+<div class="container pr-lg-5 menu-card">
     <div class="row">
         <div class="col-md-12">
             <h2>Sepet</h2>
             @if (@Model.Cardlines.Count > 0)
             {
-                <table class=" table table-bordered table-striped">
+                <table class="table table-bordered table-striped">
                     <thead>
                         <tr>
                             <th class="text-center">Product Image</th>
@@ -21,6 +26,7 @@
                     <tbody>
                         @foreach (var item in Model.Cardlines)
                         {
+                        <div class="dropdown-item">
                             <tr>
                                 <th class="text-center">
                                     <img style="width:100px;height:100px;" src="~/Upload/@item.Product.Image" alt="@item.Product.Name" />
@@ -31,7 +37,7 @@
                                 <th class="text-center">
                                     <a href="/Home/Details/@item.Product.Id">@item.Product.Name</a>
                                 </th>
-                                <th class="text-center">
+                                <th class="text-center mr-5">
                                     @item.Product.Price₺
                                 </th>
                                 <th class="text-center">
@@ -45,7 +51,7 @@
                                 </th>
 
                             </tr>
-
+                        </div>
 
                         }
                     </tbody>
@@ -61,14 +67,14 @@
 
                 </table>
                 <div class="text-center">
-                   
+
                     <a href="/Home/List" class="btn btn-outline-primary"> <i class="fa fa-angle-double-left">Keep Shoping </i></a>
-                   
-                 
-                    
-                        <a href="/Card/Checkout" class="btn btn-outline-success"><i class="fa fa-check">Check Out </i></a>
-                   
-                    
+
+                    <a href="/Card/Index" class="btn btn-outline-primary"> <i class="fa fa-shopping-cart">Goto Card </i></a>
+
+                    <a href="/Card/Checkout" class="btn btn-outline-success"><i class="fa fa-check">Check Out </i></a>
+
+
 
 
                 </div>
@@ -84,19 +90,3 @@
         </div>
     </div>
 </div>
-@*<div class="container">
-
-        <div class="dropdown">
-            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Dropdown button
-            </button>
-            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                @foreach (var item in Model.Cardlines)
-                {
-
-                    <a class="dropdown-item" href="#">@item.Product.Name @item.Quentity </a>
-                }
-
-            </div>
-        </div>
-    </div>*@

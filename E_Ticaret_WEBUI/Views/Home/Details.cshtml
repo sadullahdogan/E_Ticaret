@@ -117,6 +117,7 @@
                                 @using (Html.BeginForm("AddToCard", "Card"))
                                 {
                                     @Html.HiddenFor(i => i.Id)
+                                    @Html.Hidden("returnUrl", Url.Action());
                                     <div class="product-btns">
                                         <div class="qty-input">
                                             <span class="text-uppercase">QTY: </span><br />

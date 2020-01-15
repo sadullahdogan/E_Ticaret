@@ -15,19 +15,16 @@
 {
     //kullanıcı Adı logout
     <ul class="navbar-nav my-2 my-lg-0">
+        
 
         <li class="nav-item active">
-            <a class="nav-link dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">
+            <a class="nav-link dropdown-toggle dropdown-toggle-split dropdown-menu-right" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">
                 <i class="fa  fa-cart-plus ">&nbsp (@a)</i>
             </a>
             <div class="btn-group">
                 <div class="dropdown-menu pr-lg-5">
                     @Html.Action("CardMenu","Card")
-                    @*<a class="dropdown-item" href="#">Action</a>
-                    <a class="dropdown-item" href="#">Another action</a>
-                    <a class="dropdown-item" href="#">Something else here</a>
-                    <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="#">Separated link</a>*@
+                   
                 </div>
             </div>
 
@@ -52,7 +49,16 @@ else
     //login ve register
     <ul class="navbar-nav my-2 my-lg-0">
         <li class="nav-item active">
-            <a class="nav-link" href="/Card/Index"><i class="fa fa-shopping-cart">&nbsp (@a)</i></a>
+            <a class="nav-link dropdown-toggle dropdown-toggle-split dropdown-menu-rightka" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">
+                <i class="fa  fa-cart-plus ">&nbsp (@a)</i>
+            </a>
+            <div class="btn-group">
+                <div class="dropdown-menu pr-lg-5">
+                    @Html.Action("CardMenu", "Card")
+
+                </div>
+            </div>
+
         </li>
         <li class="nav-item active">
             <a class="nav-link" href="/Account/Login">Login</a>
